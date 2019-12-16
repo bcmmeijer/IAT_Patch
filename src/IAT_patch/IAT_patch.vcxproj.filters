@@ -18,12 +18,12 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="IATHOOK.cpp">
+    <ClCompile Include="cIATHook.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="IATHOOK.h">
+    <ClInclude Include="cIATHook.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
